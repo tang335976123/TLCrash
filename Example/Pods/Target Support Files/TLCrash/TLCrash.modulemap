@@ -1,0 +1,6 @@
+framework module TLCrash {
+  umbrella header "TLCrash-umbrella.h"
+
+  export *
+  module * { export * }
+}
