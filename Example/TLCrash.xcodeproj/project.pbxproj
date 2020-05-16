@@ -519,9 +519,11 @@
 			baseConfigurationReference = 139B478FEA389399B8A9CB52 /* Pods-TLCrash_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 1;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TLCrash/TLCrash-Prefix.pch";
 				INFOPLIST_FILE = "TLCrash/TLCrash-Info.plist";
+				MARKETING_VERSION = 1.0.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -535,9 +537,11 @@
 			baseConfigurationReference = AC8F10A3C4704FFDA2D87B34 /* Pods-TLCrash_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 1;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TLCrash/TLCrash-Prefix.pch";
 				INFOPLIST_FILE = "TLCrash/TLCrash-Info.plist";
+				MARKETING_VERSION = 1.0.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
