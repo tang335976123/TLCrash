@@ -35,4 +35,7 @@ TLCrash is available under the MIT license. See the LICENSE file for more info.
 目制存放路经 [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) lastObject]; 
  NSString * path = [applicationDocumentsDirectory() stringByAppendingPathComponent:@"Exception.txt"];
  
+ #### https://github.com/TLCrash/TLCrash.git
+ ######  https://github.com/tang335976123/TLCrash.git
+ 
 

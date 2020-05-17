@@ -20,7 +20,6 @@
 
     NSArray *ary = @[@"",@"",@""];
     NSLog(@"%@",ary[5]);
-
 }
 
 - (void)didReceiveMemoryWarning
