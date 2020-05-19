@@ -26,7 +26,7 @@ TODO:BUG收集
   s.author           = { 'TLCrash' => '857258218@qq.com' }
   s.source           = { :git => 'https://github.com/tang335976123/TLCrash.git', :tag => s.version.to_s }
 #   s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-  s.social_media_url = 'https://www.jianshu.com/u/9d3ddb989614'
+#  s.social_media_url = 'https://www.jianshu.com/u/9d3ddb989614'
 
   s.ios.deployment_target = '8.0'
 
