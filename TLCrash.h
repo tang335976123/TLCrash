@@ -11,7 +11,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface TLCrash : NSObject
 
-/// yn vi 
+/// 初始化Crash 记录闪退问题
 +(void)collectCrash;
 
 +(NSUncaughtExceptionHandler *)getHandler;
