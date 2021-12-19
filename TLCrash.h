@@ -11,6 +11,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface TLCrash : NSObject
 
+/// yn vi 
 +(void)collectCrash;
 
 +(NSUncaughtExceptionHandler *)getHandler;
