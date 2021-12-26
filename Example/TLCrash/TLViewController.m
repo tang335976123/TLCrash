@@ -18,8 +18,9 @@
 {
     [super viewDidLoad];
 
-    NSArray *ary = @[@"",@"",@""];
-    NSLog(@"%@",ary[5]);
+//    NSArray *ary = @[@"",@"",@""];
+//    NSLog(@"%@",ary[5]);
+    
 }
 
 - (void)didReceiveMemoryWarning
