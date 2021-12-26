@@ -30,6 +30,11 @@ NS_ASSUME_NONNULL_BEGIN
                time:(NSDate *)timeStr
              format:(NSString *)format;
 
+
+/// 日志开关
+/// @param on 是否开始记录日志信息
++ (void)setFileLogOnOrOff:(BOOL)on;
+
 @end
 
 NS_ASSUME_NONNULL_END

@@ -59,9 +59,6 @@ void UncaughtExceptionHeandler(NSException *exception){
     
 }
 
-
-
-
 + (void)setFileLogOnOrOff:(BOOL)on {
     _fileLogOnOrOff = on;
 }
